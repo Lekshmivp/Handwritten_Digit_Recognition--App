@@ -20,15 +20,15 @@ The task is to classify a given image of a handwritten digit into one of 10 clas
 
 Requirements .txt file
 
-torch
-numpy
-flask
-pillow
-pip
-pylint
-gunicorn
-matplotlib
-flake8
+torch,
+ numpy,
+ flask,
+ pillow,
+ pip,
+ pylint,
+ gunicorn,
+ matplotlib,
+ flake8
 
 
 
