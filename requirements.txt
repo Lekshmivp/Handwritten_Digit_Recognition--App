@@ -1,0 +1,9 @@
+torch
+numpy
+flask
+pillow
+pip
+pylint
+gunicorn
+matplotlib
+flake8
